@@ -1,2 +1,2 @@
 # python-microblog
-Following Miguel Grinberg's flask mega tutorial
+Following Miguel Grinberg's [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
