@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# log directories
+logs/
+
 # development dbs
 *.db
