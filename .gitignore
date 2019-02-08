@@ -106,5 +106,8 @@ venv.bak/
 # log directories
 logs/
 
+# visual studio code settings
+.vscode/
+
 # development dbs
 *.db
