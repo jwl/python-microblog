@@ -5,3 +5,6 @@ Following Miguel Grinberg's [Flask Mega-Tutorial](https://blog.miguelgrinberg.co
 * user: Charmander, pass: char
 * user: jobiasrkd: test
 * user: Bulbasaur: bulba
+
+### Running
+`flask run`
